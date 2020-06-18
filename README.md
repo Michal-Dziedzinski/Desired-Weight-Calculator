@@ -4,4 +4,4 @@ W tym repozytorium znajduje się kod szóstego wyzwania przedstawionego publiczn
 
 ## Zapowiedź i rozwiązanie
 
-[W tym miejscu](https://www.youtube.com/watch?v=lAYDGlB9xbs) możesz zobaczyć zapowiedź odcinka w którym będę pokazywał jak zrobić taki kalkulator, natomiast [tutaj](https://www.youtube.com/watch?v=lAYDGlB9xbs) możesz zobaczyć rozwiązanie tego projektu :)
+[W tym miejscu](https://www.youtube.com/watch?v=LAzVdaBTpEM) możesz zobaczyć zapowiedź odcinka w którym będę pokazywał jak zrobić taki kalkulator, natomiast [tutaj](https://www.youtube.com/watch?v=9jqqj60TCPA) możesz zobaczyć rozwiązanie tego projektu :)
